@@ -1,5 +1,5 @@
 {
   "scripts": {
-    "deploy": "command for deployment"
+    "deploy": "gh-pages -d ."
   }
 }
